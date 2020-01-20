@@ -5,5 +5,5 @@ script: mvn clean verify
 deploy:
   provider: heroku
   api_key:
-    secure: qMS_wOuMmGMhedbYhoqsTA
+    secure: "qMS_wOuMmGMhedbYhoqsTA"
   app: lipingwang
